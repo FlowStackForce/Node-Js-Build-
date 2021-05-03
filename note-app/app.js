@@ -8,5 +8,4 @@ console.log(msg)
 
 console.log(validator.isEmail('kan.adedeji@gmail.com'))
 console.log(chalk.green('Success'))
-console.log(process.argv)
 console.log(yargs.argv)
